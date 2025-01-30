@@ -26,7 +26,7 @@ and title in the center. Since, is in the sea, there would be sea audio in the b
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/oBUsMsOxmIM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](https://img.youtube.com/vi/oBUsMsOxmIM/0.jpg)](https://youtu.be/oBUsMsOxmIM)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
