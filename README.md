@@ -1,29 +1,32 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Joh M. Pozo**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **8-10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [Y] The introduction section explains the background of the company and how many games remain unfunded.
+* [Y] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [Y] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [Y] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [Y] List anything else that you can get done to improve the app functionality!
+
+- Make a cool intro to get in the game, instead of a simple template, why not create it where the the intro has some animation with the logo
+and title in the center. Since, is in the sea, there would be sea audio in the background. Thus, you enter, and then you will be shown a intro, show stats, show top funded game, runner up, our games, and really cool animation, maybe a transition effect in or out...or better. I'm tired at the moment, is 5:33 AM at the moment. I'm gonna go to sleep now.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/oBUsMsOxmIM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
