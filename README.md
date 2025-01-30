@@ -27,7 +27,7 @@ and title in the center. Since, is in the sea, there would be sea audio in the b
 Here's a walkthrough of implemented features:
 
 [![Video Walkthrough](https://img.youtube.com/vi/oBUsMsOxmIM/0.jpg)](https://youtu.be/oBUsMsOxmIM)
-<div align="right">
+<div align="left">
     <b>Click Here</b> 👆
 </div>
 <!-- Replace this with whatever GIF tool you used! -->
@@ -39,7 +39,15 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. 
+
+- Passing the secret key, I kept messing up on that a lot. 
+
+- As for coding, since these functions are new, it was a problem, however, when you see something for the first time is going to be intemmedating at first. Just need more practice and I will be okay :)
+
+- Just had fun and thank you for extending the time for all us. God bless yall!
+
+Credit to Claude 3.5 Sonnet, ChatGPT-4o, and DeepSeek-V3,R1 and my brain for the help!
 
 ## License
 
