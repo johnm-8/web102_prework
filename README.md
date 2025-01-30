@@ -27,7 +27,9 @@ and title in the center. Since, is in the sea, there would be sea audio in the b
 Here's a walkthrough of implemented features:
 
 [![Video Walkthrough](https://img.youtube.com/vi/oBUsMsOxmIM/0.jpg)](https://youtu.be/oBUsMsOxmIM)
-
+<div align="right">
+    <b>Click Here</b> 👆
+</div>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
